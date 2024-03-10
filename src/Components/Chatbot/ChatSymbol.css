@@ -1,0 +1,35 @@
+.chat-symbol-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.chat-symbol {
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.chat-symbol img {
+    width: 80%;
+    background-image: './1.png';
+}
+
+.chat-interface {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 300px;
+    height: 400px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
