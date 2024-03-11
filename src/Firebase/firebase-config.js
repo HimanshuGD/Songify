@@ -5,13 +5,13 @@ import { getDownloadURL, getStorage, ref, uploadBytes } from "firebase/storage";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCwUfipp_F0jQK2XRDSdESNI2HeYuEx1IU",
-    authDomain: "songify-7a272.firebaseapp.com",
-    projectId: "songify-7a272",
-    storageBucket: "songify-7a272.appspot.com",
-    messagingSenderId: "971802617416",
-    appId: "1:971802617416:web:a3a6d5396958a37da15a7d",
-    measurementId: "G-QPP7PSS6R5"
+    apiKey: "YOUR",
+    authDomain: "YOUR",
+    projectId: "YOUR",
+    storageBucket: "YOUR",
+    messagingSenderId: "YOUR",
+    appId: "YOUR",
+    measurementId: "YOUR"
 };
 
 const app = initializeApp(firebaseConfig);
