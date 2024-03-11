@@ -6,7 +6,7 @@ import {
 } from '@chatscope/chat-ui-kit-react';
 
 
-const API_KEY = "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";
+const API_KEY = "YOUR_API_KEY";
 const systemMessage = { "role": "system", "content": "Explain things like you're talking to a software professional with 2 years of experience." }
 
 
