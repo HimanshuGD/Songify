@@ -10,7 +10,7 @@ import bts6s from './songs/6.mp3';
 import bts7s from './songs/7.mp3';
 import bts8s from './songs/8.mp3';
 import bts9s from './songs/9.mp3';
-import bts10s from './songs/10.mp3';
+// import bts10s from './songs/10.mp3';
 import bts11s from './songs/11.mp3';
 import bts12s from './songs/12.mp3';
 import bts13s from './songs/13.mp3';
@@ -41,7 +41,7 @@ export const tracks = [
     { author: 'himanshu', title: 'Shadow', src: bts7s, thumbnail: cov7 },
     { author: 'himanshu', title: 'Eight ft. Suga', src: bts8s, thumbnail: cov8 },
     { author: 'himanshu', title: '10000Hours by JB', src: bts9s, thumbnail: cov9 },
-    { author: 'himanshu', title: 'Stay Gold', src: bts10s, thumbnail: cov2 },
+    // { author: 'himanshu', title: 'Stay Gold', src: bts10s, thumbnail: cov2 },
     { author: 'himanshu', title: 'Idol', src: bts11s, thumbnail: cov1 },
     { author: 'himanshu', title: 'On', src: bts12s, thumbnail: cov12 },
     { author: 'himanshu', title: 'Dont Leave Me', src: bts13s, thumbnail: cov13 },
